@@ -24,13 +24,11 @@ Note that the login section is purely a dummy and doesn't achieve much. In order
 ***password:*** 1234
 Any other credentials will throw an "Invalid credentials" error message
 
-## Deployment
-```bash
-https://ogada-otieno.github.io/weather-app-phase-1-project/
-```
+
 
 ## Author
-[Rodgers Ogada](https://github.com/ogada-otieno)
+[cindy muthoni]
+
 
 [Email contact] (cindymuthoni14@gmail.com)
 
